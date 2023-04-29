@@ -2,3 +2,4 @@
 #echo "Hello Word" = shell scripts
 python('Hello Word')
 #=python script
+print('Hello Word')
